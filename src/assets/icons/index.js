@@ -1,6 +1,7 @@
 import css from './css.svg'
 import express from './express.svg'
 import git from './git.svg'
+import bootstrap from './bootstrap.svg'
 import github from './github.svg'
 import html from './html.svg'
 import javascript from './javascript.svg'
@@ -27,13 +28,28 @@ import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 
+import aws from './aws.svg'
+import gitlab from './gitlab.svg'
+import mySql from './mysql.svg'
+import python from './python.svg'
+import babylonjs from './babylonjs.svg'
+import solidity from './solidity.svg'
+import threejs from './threejs.svg'
+
 export {
     css,
     express,
     git,
+    aws,
+    gitlab,
+    mySql,
+    python,
     github,
     html,
     javascript,
+    babylonjs,
+    threejs,
+    solidity,
     mongodb,
     motion,
     mui,
@@ -55,5 +71,6 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    bootstrap
 }
