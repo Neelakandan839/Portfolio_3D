@@ -31,7 +31,7 @@ const About = () => {
           React Native For App Development. Proven Track Record Of Delivering
           Innovative And Immersive Digital Solutions.
         </p>
-        <Link className='btn' to="https://drive.google.com/file/d/1Qkjs5Aha3I2P6eCpR3kUMNyprnKvbqw1/view?usp=sharing" target="_blank" style={{width:"fit-content"}}>
+        <Link className='btn' to="https://drive.google.com/file/d/1aR1GCTLuaSsLeJ6-uiIrpPNRj_pIZzND/view?usp=sharing" target="_blank" style={{width:"fit-content"}}>
         Get Resume
       </Link>
       </div>
