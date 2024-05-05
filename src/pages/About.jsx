@@ -31,7 +31,7 @@ const About = () => {
           React Native For App Development. Proven Track Record Of Delivering
           Innovative And Immersive Digital Solutions.
         </p>
-        <Link className='btn' to="https://drive.google.com/file/d/1UTthoh68ODOllk5oEaRXu1YANmEOIMbS/view?usp=drive_link" target="_blank" style={{width:"fit-content"}}>
+        <Link className='btn' to="https://drive.google.com/file/d/1Qkjs5Aha3I2P6eCpR3kUMNyprnKvbqw1/view?usp=sharing" target="_blank" style={{width:"fit-content"}}>
         Get Resume
       </Link>
       </div>
@@ -44,7 +44,7 @@ const About = () => {
             <div
               style={{
                 display: "flex",
-                flexDirection: "column",
+                flexDirection: "column", 
                 alignItems: "center",
               }}
             >

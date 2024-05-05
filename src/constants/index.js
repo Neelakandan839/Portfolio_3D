@@ -27,6 +27,7 @@ import {
   babylonjs,
   threejs,
   mySql,
+  aws
 } from "../assets/icons";
 
 export const skills = [
@@ -109,6 +110,11 @@ export const skills = [
     imageUrl: mySql,
     name: "MySQL",
     type: "Database",
+  },
+  {
+    imageUrl: aws,
+    name: "AWS",
+    type: "Cloud",
   },
   {
     imageUrl: git,
