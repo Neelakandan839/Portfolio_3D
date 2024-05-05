@@ -24,14 +24,14 @@ const About = () => {
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
           I'm Currently A Software Engineer. I Describe My Self To You, I'm A
-          Self-Motivated Person And Good & Quick Learner. I Experienced With A
+          Self-motivated person And a Good & Quick Learner. I Experienced With A
           Strong Background In Cutting-Edge Technologies, Including Web 3.0
           Development Featuring 3D 360° Scenes & Videos, VR/XR Experiences, And
           Blockchain Integration Through Smart Contracts And NFTs. Proficient In
           React Native For App Development. Proven Track Record Of Delivering
           Innovative And Immersive Digital Solutions.
         </p>
-        <Link className='btn' to="https://drive.google.com/file/d/1UTthoh68ODOllk5oEaRXu1YANmEOIMbS/view?usp=drive_link" target="_blank" style={{width:"fit-content"}}>
+        <Link className='btn' to="https://drive.google.com/file/d/1Qkjs5Aha3I2P6eCpR3kUMNyprnKvbqw1/view?usp=sharing" target="_blank" style={{width:"fit-content"}}>
         Get Resume
       </Link>
       </div>
